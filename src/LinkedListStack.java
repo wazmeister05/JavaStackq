@@ -3,7 +3,7 @@ import java.util.LinkedList;
 public class LinkedListStack<E> implements StackADT<E> {
 
     //LinkedLists provide implementation we're looking for with a stack
-    
+
     private LinkedList<E> list;
 
     public LinkedListStack(){
